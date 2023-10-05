@@ -1,0 +1,779 @@
+== Inhalt
+
+link:#_Toc80635176[*1.* *Allgemeine Information* link:#_Toc80635176[4]]
+
+link:#_Toc66171792[*2.* *Verordnungstool öffnen* link:#_Toc66171792[5]]
+
+link:#_Toc66171793[2.1. Installation des Verordnungstool
+link:#_Toc66171793[5]]
+
+link:#_Toc66171794[2.2. Ausführen des Verordnungstools
+link:#_Toc66171794[6]]
+
+link:#_Toc80635180[*3.* *Anmeldung* link:#_Toc80635180[7]]
+
+link:#_Toc66171796[3.1. Benutzerkonto link:#_Toc66171796[8]]
+
+link:#_Toc66171797[3.2. Abmeldung/ Benutzerwechsel
+link:#_Toc66171797[8]]
+
+link:#_Toc66171798[*4.* *Europäische Gesetzestexte importieren*
+link:#_Toc66171798[9]]
+
+link:#_Toc66171799[4.1. durch Dokumentennummer importieren
+link:#_Toc66171799[10]]
+
+link:#_Toc66171800[4.2. durch EUR-Lex URL importieren
+link:#_Toc66171800[11]]
+
+link:#_Toc66171801[4.3. durch eine HTML Datei importieren
+link:#_Toc66171801[12]]
+
+link:#_Toc66171802[4.4. durch PDF-Dokument importieren
+link:#_Toc66171802[13]]
+
+link:#_Toc66171803[*5.* *Deutsche Gesetze importieren*
+link:#_Toc66171803[14]]
+
+link:#_Toc80635189[5.1. durch Abkürzungen importieren
+link:#_Toc80635189[14]]
+
+link:#_Toc80635190[5.2. durch URL importieren link:#_Toc80635190[15]]
+
+link:#_Toc80635191[5.3. durch XML-Datei importieren
+link:#_Toc80635191[15]]
+
+link:#_Toc80635192[*6.* *Bearbeitung des Gesetzestextes*
+link:#_Toc80635192[19]]
+
+link:#_Toc66171807[6.1. Öffnen eines Gesetzestextes
+link:#_Toc66171807[20]]
+
+link:#_Toc66171808[6.2. Exportieren link:#_Toc66171808[20]]
+
+link:#_Toc66171809[6.3. Graph erstellen link:#_Toc66171809[21]]
+
+link:#_Toc66171810[6.4. Kommentare speichern link:#_Toc66171810[21]]
+
+link:#_Toc66171811[6.5. externe Kommentare anzeigen lassen
+link:#_Toc66171811[23]]
+
+link:#_Toc66171812[6.6. Bearbeitung von Kommentaren
+link:#_Toc66171812[23]]
+
+link:#_Toc66171813[6.7. Löschen von Kommentaren link:#_Toc66171813[23]]
+
+link:#_Toc66171814[6.8. Suchen per Hashtag link:#_Toc66171814[24]]
+
+link:#_Toc66171815[6.9. Lesemodus link:#_Toc66171815[24]]
+
+link:#_Toc66171816[*7.* *Verweise auf andere Gesetzestexte*
+link:#_Toc66171816[26]]
+
+link:#_Toc66171817[7.1. Verweise bearbeiten link:#_Toc66171817[26]]
+
+[arabic]
+. [#_Toc80635176 .anchor]##*Allgemeine Information*
+
+Das Verordnungstool wurde entwickelt, um die Bearbeitung mit
+Gesetzestexten für Sie zu vereinfachen.
+
+Durch die einfache und unkomplizierte Bedienung ist das Verordnungstool
+das perfekte Tool, um den Arbeitsalltag mit Gesetzestexten für Sie
+leichter zu gestalten.
+
+Das Verordnungstool wurde konzipiert, um eine bessere Übersicht über
+Gesetzestexte zu haben. Dabei wurden viele Funktionen eingebaut, welche
+das Tool zu einer echten Hilfe für Sie werden lässt.
+
+Das Verordnungstool umfasst verschiedene Art und Weisen, wie Sie den
+Gesetzestext dem Tool hinzufügen können. Dabei haben Sie die Auswahl
+zwischen einfachem Eintragen mit anschließendem Importieren oder bereits
+vorhandene Gesetztestexte die Sie aus dem Verordnungstool exportiert und
+auf Ihrem Rechner in das Verordnungstool importieren zu können.
+
+Sie können sowohl Deutsche Gesetztestexte als auch Europäische
+Gesetztestexte importieren.
+
+Anschließend haben Sie die Möglichkeit den Gesetzestext zu analysieren
+und kommentieren.
+
+Sowohl Sie als auch andere Nutzer des Verordnungstools können
+Gedankengänge und weitere wichtige Informationen direkt in den
+Gesetzestext hineinschreiben. Ihnen werden Verweise auf andere
+Gesetztestexte angeboten, sodass sie ohne ständiges hin und her wechseln
+zwischen Tabs innerhalb des Tools auf die Verweise direkt zugreifen
+können. Dies macht die Bearbeitung für Sie einfacher und
+übersichtlicher.
+
+Durch Eingabe eines Kommentars oder Hashtags können Sie den Gesetzestext
+im Anschluss filtern, ohne dabei jeden einzelnen Paragraphen durchsuchen
+zu müssen, was Ihnen das Auffinden von Kommentaren erleichtert.
+
+Des Weiteren können Sie die Kommentierung mit anderen Leuten (dabei
+spielt es keine Rolle ob es sich um einen Nutzer des Verordnungstools
+oder einen außenstehenden handelt) austauschen. Somit haben Sie die
+Möglichkeit gemeinsam einen Gesetzestext zu bearbeiten und Ergebnisse
+miteinander zu teilen.
+
+Außerdem haben Sie die Möglichkeit, den Gesetzestext, den Sie bereits
+mit Ihren Gedankengängen, Kommentaren und Hastags versehen haben direkt
+auf Ihrem Rechner zu speichern. Dabei haben Sie die Auswahl aus mehreren
+Kriterien und können somit entscheiden, welche Informationen Sie in der
+gespeicherten Datei von Nutzen sind.
+
+[arabic, start=2]
+. [#_Toc66171792 .anchor]##*Verordnungstool öffnen*
++
+[#_Toc66171793 .anchor]####2.1. Installation des Verordnungstool
+
+* Um das Verordnungstool auf Ihrem Rechner öffnen zu können, muss Java 8
+installiert sein.
+** Um dies zu überprüfen, können Sie auf der Kommandozeile mit „Java
+-version“ nachsehen. Es sollte eine Version „1.8“ oder höher angezeigt
+werden.
+** Sollten Sie Java 8 bisher nicht auf Ihrem Rechner installiert haben,
+können Sie Java 8 über den untenstehenden Link herunterladen.
+
+____
+https://www.java.com/de/download/help/java8.html
+____
+
+* Stellen Sie sicher, dass Chrome als Ihr Standardbrowser festgelegt
+ist, da das Verordnungstool für diesen Browser konzipiert wurde. Bei
+anderen Browsern ist eine fehlerfreie Benutzung des Verordnungstools
+nicht gewährleistet.
+
+Sie können Chrome als Ihren Standardbrowser festlegen: Öffnen
+Sie Chrome auf Ihrem Computer. Klicken Sie auf Einstellungen. Klicken
+Sie unter "Standardbrowser" auf Google Chrome als Standardbrowser
+festlegen. Wenn diese Option nicht angezeigt wird, ist
+Google Chrome schon als Ihr Standardbrowser festgelegt.
+
+____
+image:media/image3.png[media/image3,width=468,height=286]
+____
+
+* Entpacken Sie nun die ZIP-Datei des Verordnungstool.
+** Machen Sie mit der Maus einen Rechtsklick auf den zu entpackenden
+Zip-Datei.
+** Klicken Sie im Anschluss im Dropdown Menü auf Extract All... oder
+Alle Extrahieren…
+** Hierdurch wird der die ZIP-Datei in einen Ordner entpackt.
+
+____
+In diesem Ordner finden Sie nach dem Entpacken unter anderem dieses
+Handbuch und eine Datei „verordnung-gk“ oder „verordnung-gk.jar“.
+____
+
+[#_Toc66171794 .anchor]####2.2. Ausführen des Verordnungstools
+
+* Damit Sie das Programm starten können, müssen Sie die Datei
+„verordnung-gk“ oder „verordnung-gk.jar“ ausführen.
+** Klicken Sie dazu mit einem doppelten Mausklick auf die Datei
+„verordnung-gk“ oder „verordnung-gk.jar“.
+
+____
+image:media/image4.png[media/image4,width=203,height=59]
+____
+
+* Innerhalb weniger Sekunden öffnet sich Ihr Standardbrowser mit dem
+Verordnungstool.
+* Wenn Sie eine neuere Version von Java verwenden, wird die Anwendung
+durch Doppelklick auf die Datei run.bat gestartet
+
+____
+image:media/image5.png[media/image5,width=241,height=89]
+____
+
+[arabic, start=3]
+. *Auswahl des Nutzernamens*
+
+* Bitte geben Sie einen beliebigen Benutzernamen in das vorgesehene
+Eingabefeld ein. Dieser Benutzername wird als Autor für die Kommentare
+verwendet, die Sie erstellen. Im Anschluss klicken Sie mit der
+Computermaus auf
+„Bestätigen“.image:media/image6.png[media/image6,width=680,height=522]
+* Nachdem Sie den Benutzernamen gewählt haben, öffnet sich automatisch
+die folgende Seite:
+
+image:media/image7.png[media/image7,width=680,height=158]
+
+[#_Toc66171796 .anchor]####3.1. Benutzerkonto
+
+* Das Benutzerkonto zeigt Ihnen an, mit welchem Benutzer Sie derzeit
+angemeldet sind.
+
+image:media/image8.png[media/image8,width=431,height=190]
+
+[#_Toc66171797 .anchor]####3.2. Ändern des Benutzernamens
+
+Wenn Sie den Benutzernamen ändern wechseln möchten, müssen Sie die
+Auswahl des Nutzernamens aktivieren.
+
+* Führen Sie einen Klick auf den Button mit der Person durch, der sich
+neben dem Nutzernamen befindet.
+* Anschließend können Sie, wie unter Punkt 3 beschrieben, einen neuen
+Benutzernamen eingeben.
+
+[arabic, start=4]
+. [#_Toc66171798 .anchor]##*Europäische Gesetzestexte importieren*
+
+Wenn Sie einen europäischen Gesetzestext importieren möchten, müssen Sie
+in der Linksnavigation „Import“ und „EU-Dokumente“ auswählen.
+
+Bei diesem Punkt haben Sie die Möglichkeit zu wählen, in welcher Art und
+Weise Sie Gesetzestexte in das Verordnungstool importieren möchten.
+
+image:media/image9.png[media/image9,width=680,height=288]
+
+[#_Toc66171799 .anchor]####4.1. durch Dokumentennummer importieren
+
+Wenn Sie einen Europäischen Gesetzestext durch die Dokumentennummer
+importieren möchten, müssen Sie den Typ, das Jahr, die Nummer und den
+Anzeigenamen ausfüllen.
+
+image:media/image10.png[media/image10,width=546,height=227]
+
+image:media/image11.png[media/image11,width=515,height=135]
+
+Typ:
+
+* Durch Öffnen des Dropdown Menüs, können Sie wählen, welchen Typ des
+Gesetzestextes Sie hinzufügen möchten. Durch einen Klick auf den
+gewünschten Gesetzestyp, wählen Sie diesen aus.
+
+image:media/image12.png[media/image12,width=225,height=98]
+
+Jahr:
+
+* Das entsprechende Erscheinungsjahr können Sie aus dem gewünschten
+Gesetzestext entnehmen. Bitte tragen Sie das Erscheinungsjahr unter
+„Jahr“ ein.
+
+Nummer:
+
+* Die benötigte Nummer können Sie aus dem gewünschten Gesetzestext
+entnehmen. Bitte tragen Sie im Anschluss diese unter „Nummer“ ein.
+
+Anzeigename:
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung die direkt im Gesetzestext steht und
+aussagekräftig ist.
+* (siehe Punkt 4.1.)
++
+[#_Toc66171800 .anchor]####4.2. durch EUR-Lex URL importieren
+
+Wenn Sie einen Gesetzestext über die URL importieren möchten, müssen Sie
+den gewünschten Gesetzestext auf der untenstehenden EUR-Lex Seite
+heraussuchen.
+
+* https://eur-lex.europa.eu/homepage.html
+
+URL:
+
+* Sie müssen die URL des gewünschten Gesetzestextes kopieren und im
+Anschluss in das entsprechende Fenster des Verordnungstools einfügen.
+
+Anzeigename:
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung, die direkt im Gesetzestext steht und
+aussagekräftig ist.
+* (siehe Punkt 4.1.)
+
+image:media/image13.png[media/image13,width=552,height=133]
+
+[#_Toc66171801 .anchor]####4.3. durch eine HTML Datei importieren
+
+Sollten Sie einen Gesetzestext bereits als HTML-Datei auf Ihrem Rechner
+haben, können Sie diesen über diesen Punkt importieren. Dabei ist zu
+beachten, dass ausschließlich HTML-Dateien, die von der EUR-Lex Seite
+sind, importiert werden können. Wenn Sie eine HTML-Datei von einer
+anderen Website auf Ihren Rechner gespeichert haben, ist diese Funktion
+nicht ausführbar.
+
+HTML- Datei
+
+* Suchen Sie die gewünschte HTML-Datei mit dem gewünschten Gesetzestext
+im Explorer. Durch einen Doppelklick auf die HTML-Datei wählen Sie diese
+aus. Durch einen weiteren Klick auf Öffnen/open fügen Sie den
+ausgesuchten Gesetzestext hinzu.
+
+Anzeigename:
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung die direkt im Gesetzestext steht und
+aussagekräftig ist.
+* (siehe Punkt 4.1.)
+
+* Klicken Sie im Anschluss auf den Knopf “HTML-Datei importieren“. Dabei
+wird der gewünschte Gesetzestext dem Verordnungstool hinzugefügt.
+
+image:media/image14.png[media/image14,width=460,height=125]
+
+[#_Toc66171802 .anchor]####4.4. durch PDF-Dokument importieren
+
+Sollten Sie einen Gesetzestext bereits als aus dem Verordnungstool
+exportiertes PDF-Dokument auf Ihrem Rechner haben, können Sie diesen
+über diesen Punkt importieren. Dabei ist zu beachten, dass
+ausschließlich PDF-Dateien, die von der EUR-Lex Seite sind, importiert
+werden können. Wenn Sie eine PDF-Datei von einer anderen Website auf
+Ihren Rechner gespeichert haben, ist diese Funktion nicht ausführbar.
+
+Exportiertes PFD-Dokument
+
+* Suchen Sie die gewünschte PDF-Datei mit dem gewünschten Gesetzestext
+im Explorer. Durch einen Doppelklick auf die PDF-Datei wählen Sie diese
+aus. Durch einen weiteren Klick auf Öffnen/open fügen Sie den
+ausgesuchten Gesetzestext hinzu.
+
+Anzeigename
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung die direkt im Gesetzestext steht und
+aussagekräftig ist.
+* (siehe Punkt 4.1.)
+
+image:media/image15.png[media/image15,width=521,height=209]
+
+* Klicken Sie im Anschluss auf den Knopf “PDF-Dokument importieren“.
+Dabei wird der gewünschte Gesetzestext dem Verordnungstool hinzugefügt.
+
+[arabic, start=5]
+. [#_Toc66171803 .anchor]##*Deutsche Gesetze importieren*
+
+Wenn Sie einen deutschen Gesetzestext importieren möchten, müssen Sie in
+der Linksnavigation „Import“ und „Bundesgesetze“ auswählen.
+
+Bei diesem Punkt haben Sie die Möglichkeit zu wählen, in welcher Art und
+Weise Sie Gesetzestexte in das Verordnungstool importieren möchten.
+
+image:media/image16.png[media/image16,width=549,height=231]
+
+[arabic]
+. [#_Toc80635189 .anchor]####durch Abkürzungen importieren
+
+image:media/image17.png[media/image17,width=523,height=273]
+
+Abkürzung
+
+* Nennen Sie die offizielle Abkürzung des gesuchten Gesetzestextes.
+Anhand dieser Abkürzung sucht das Verordnungstool den Gesetzestext und
+importiert diesen.
+
+Anzeigename
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung, die direkt im Gesetzestext steht und
+aussagekräftig ist.
+[arabic]
+. [#_Toc80635190 .anchor]####durch URL importieren
+
+image:media/image18.png[media/image18,width=491,height=155]
+
+Wenn Sie einen Gesetzestext über die URL importieren möchten, müssen Sie
+den gewünschten Gesetzestext auf der untenstehenden Bundesministeriums
+Seite heraussuchen. Die Beschreibung wie Sie dies tun, ist detailliert
+in Punkt 5.3 erklärt.
+
+* https://www.gesetze-im-internet.de/aktuell.html
+
+URL:
+
+* Sie müssen die URL des gewünschten Gesetzestextes kopieren und im
+Anschluss in das entsprechende Fenster des Verordnungstools einfügen.
+
+Anzeigename:
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung, die direkt im Gesetzestext steht und
+aussagekräftig ist.
+[arabic]
+. [#_Toc80635191 .anchor]####durch XML-Datei importieren
+
+* Um die XML-Datei herunterzuladen, müssen Sie die Website
+
+https://www.gesetze-im-internet.de/aktuell.html öffnen.
+
+image:media/image19.png[media/image19,width=571,height=272]
+
+* In der Linksnavigation finden Sie verschiedene Möglichkeiten den
+gewünschten Gesetzestext zu finden.
+
+Suche durch die Gesetze/Verordnungen
+
+* Unter Gesetze/Verordnungen haben Sie die Möglichkeit per Buchstaben
+den gewünschten Gesetzestext zu finden
+
+image:media/image20.png[media/image20,width=582,height=245]
+
+Suche durch die Titelsuche
+
+Mit der Titelsuche haben Sie die Möglichkeit anhand des Namens, von dem
+gewünschten Gesetzestext, diesen zu finden.
+
+* Bitte geben Sie in der Suchzeile den Namen des gesuchten
+Gesetzestextes ein und klicken auf „Suchen“.
+
+image:media/image21.png[media/image21,width=680,height=255]
+
+Im Anschluss wird sich die unten angezeigte Seite öffnen.
+
+* Dort müssen Sie auf den Gesetzestext „.. – nichtamtliches
+Inhaltsverzeichnis“ klicken.
+
+image:media/image22.png[media/image22,width=680,height=256]
+
+* Nun sehen Sie das Inhaltsverzeichnis des ausgewählten Gesetzestextes.
+In der obersten Zeile haben Sie nun die Möglichkeit, das XML-Dokument
+auszuwählen.
+
+image:media/image23.png[media/image23,width=351,height=292]
+
+* Durch einen Rechtsklick in das Dokument haben Sie die Möglichkeit, den
+Gesetzestext als XML-Datei herunterzuladen.
+* Klicken Sie auf „Save ass oder Speichern unter“ und speichern Sie die
+Datei in einem von Ihnen gewählten Ordner.
+[arabic]
+. Gesetzestext aufrufen
+
+XML- Datei
+
+* Bitte wählen Sie den gewünschten Gesetzestext aus und laden diesen
+hoch.
+
+Anzeigename
+
+* Geben Sie dem Gesetzestext einen beliebigen Anzeigename. Am besten
+dafür geeignet ist eine Abkürzung die direkt im Gesetzestext.
+* (siehe Punkt 4.1.)
+
+[arabic, start=6]
+. [#_Toc80635192 .anchor]##*Bearbeitung des Gesetzestextes*
+
+Linksnavigation
+
+Auf der linken Seite des Verordnungstools finden Sie unter der Übersicht
+alle bereits von Ihnen hinzugefügten Gesetzestexte. Unter dem Feld
+Import können Sie Gesetzestexte hinzufügen, wie bereits in Punkt 4.
+beschrieben.
+
+Darunter finden Sie, die Gesetzestexte, die Sie zuletzt geöffnet hatten.
+
+Inhaltsverzeichnis des Gesetzestextes
+
+Im Inhaltsverzeichnis des Gesetzestextes finden Sie eine Gliederung über
+die einzelnen Kapitel, Artikel und Absätze eines Gesetzestextes.
+
+Gesetzestext
+
+Auf der rechten Seite des Verordnungstools finden Sie den konkreten
+Gesetzestext.
+
+*Linksnavigation Inhaltsverzeichnis des Gesetzestextes Gesetzestext*
+
+image:media/image24.png[media/image24,width=680,height=327]
+
+[arabic]
+. [#_Toc66171807 .anchor]####Öffnen eines Gesetzestextes
+
+Unter der Übersicht haben Sie eine Auflistung aller bereits von Ihnen
+hinzugefügten Gesetzestexte.
+
+Drücken Sie mit einem Doppelklick auf den Knopf “Öffnen“. Dadurch öffnet
+sich der gewünschte Gesetzestext, sodass Sie mit diesem arbeiten können.
+
+image:media/image25.png[media/image25,width=680,height=83]
+
+[#_Toc66171808 .anchor]####6.2. Exportieren
+
+Drücken Sie mit einem Doppelklick auf den Knopf “Exportieren“. Dadurch
+haben Sie die Möglichkeit den Gesetzestext als Excel- Datei oder
+PDF-Datei auf Ihrem Rechner zu speichern.
+
+image:media/image25.png[media/image25,width=680,height=83]
+
+Dateiformat
+
+* Durch das Dropdown Menü können Sie auswählen, in welcher Form Sie die
+Datei auf Ihrem Rechner gespeichert haben möchten.
+* Sie können auswählen zwischen einer
+** Excel-Datei oder
+** PDF-Datei.
+
+Weitere Auswahlkriterien
+
+* Durch Anklicken der einzelnen Felder haben Sie die Chance auszuwählen,
+welche der dargestellten Eigenschaften in der Datei enthalten sein
+sollen.
+
+Externe Kommentare
+
+image:media/image26.png[media/image26,width=215,height=169]Sie laden den
+Gesetzestext mit den verfügbaren Kommentaren herunter, wenn in diesem
+Kästchen ein Kreuz sitzt.
+
+Nur Kommentare
+
+Wenn Sie ein Kreuz hier setzen, exportieren Sie nur sämtliche Kommentare
+des Gesetzestextes, ohne den Gesetzestext selbst.
+
+Mit relevanten Texten
+
+Hier laden Sie den Gesetzestext sowie weitere relevante Texte herunter,
+wenn in diesem Kästchen ein Kreuz sitzt.
+
+[#_Toc66171809 .anchor]####6.3. Graph erstellen
+
+Zur Analyse der Verknüpfungen zwischen verschiedenen Verordnungen
+ermöglicht das Verordnungstool ihnen den Export eines Graphenformats
+(TGF, Trivial Graph Format), das alle Verknüpfungen enthält, ausgehend
+von einer bestimmten importierten Verordnung. Diese Analyse hat für die
+alltägliche Arbeit keine Bedeutung, sie dient nur der Erforschung der
+Abhängigkeiten zwischen Verordnungen.
+
+* Drücken Sie mit einem Doppelklick auf den Knopf “Graph erstellen“.
+Dadurch haben Sie die Möglichkeit den Gesetzestext und all seine
+Verweise zu anderen Gesetzestexten graphisch anzeigen zu lassen.
+* Es entsteht eine Datei im Trivial Graph Format (TGF), die Sie
+anschließend in den Graphen-Editor Yed laden können, um eine Graphische
+Darstellung zu erhalten.
+
+image:media/image25.png[media/image25,width=680,height=83]
+
+[#_Toc66171810 .anchor]####6.4. Kommentare speichern
+
+Sie haben die Möglichkeit Kommentare zu speichern. Als Kommentar können
+Sie alle wichtigen Zusatzinformationen, Hashtags (#) erfassen. Die
+Kommentier Funktion dient dabei der thematischen Gruppierung.
+
+Sie haben später die Möglichkeit, den gewünschten Gesetzestext nach
+Hashtags zu filtern und Ihnen die Ergebnisse dazu anzeigen zu lassen.
+
+6.4.1. Unter einem Artikel
+
+* Bitte machen Sie einen Mausklick auf den Artikel.
+
+Im Anschluss öffnet sich das Kommentarfester, in der Sie die gewünschte
+Information eintragen und speichern können.
+
+____
+image:media/image27.png[media/image27,width=680,height=343]
+____
+
+6.4.2. Unter einem Absatz
+
+* Bitte machen Sie einen Mausklick auf den gewünschten Absatz.
+
+Im Anschluss öffnet sich das Kommentarfester, in dem Sie die gewünschte
+Information eintragen und speichern können.
+
+image:media/image28.png[media/image28,width=680,height=342]
+
+[#_Toc66171811 .anchor]####6.5. externe Kommentare anzeigen lassen
+
+Durch diese Funktion haben Sie die Möglichkeit, alle bisher
+geschriebenen Kommentare von jedem der das Verordnungstool benutzt,
+anzeigen zu lassen.
+
+* Führen Sie einen Mausklick auf dem gekennzeichneten Symbol aus.
+Dadurch können Sie sich externe Kommentare anzeigen lassen.
+* Durch einen erneuten Mausklick auf das Symbol können Sie die externen
+Kommentare wieder ausblenden.
+
+image:media/image29.png[media/image29,width=533,height=49]
+
+[#_Toc66171812 .anchor]####6.6. Bearbeitung von Kommentaren
+
+* Wenn Sie ein Kommentar erneut bearbeiten möchten, muss der
+entsprechende Kommentar lediglich per Maus von Ihnen angeklickt werden.
+Nach dem Anklicken erscheint das Bearbeitungsfeld erneut.
++
+[#_Toc66171813 .anchor]####6.7. Löschen von Kommentaren
+* Wenn Sie ein Kommentar löschen wollen, müssen Sie das entsprechende
+Kommentar öffnen und mit der Maus auf das Mülltonnensymbol klicken.
+
+image:media/image30.png[media/image30,width=680,height=77]
+
+[#_Toc66171814 .anchor]####6.8. Suchen per Hashtag
+
+Um einen Gesetzestext nach Hashtags zu durchsuchen, haben Sie die
+Möglichkeit in dem Suchfeld nach diesem zu filtern.
+
+* Geben Sie den gesuchten Hashtag in das Eingabefeld ein. Durch Ihre
+Eingabe werden alle mit diesem Hashtag gespeicherte Kommentare
+angezeigt.
+* Eingabe: #.....
+
+image:media/image31.png[media/image31,width=680,height=249]
+
+[#_Toc66171815 .anchor]####6.9. Lesemodus
+
+Sie können sich Kommentare anzeigen oder ausblenden lassen.
+
+* Wenn die Kommentare angezeigt werden, werden alle Kommentare, die von
+jeglichen Benutzern jemals geschrieben worden sind, angezeigt.
+
+[.underline]#Kommentare anzeigen oder ausblenden lassen#
+
+image:media/image32.png[media/image32,width=540,height=52]
+
+6.9.1. Kommentare werden angezeigt
+
+image:media/image33.png[media/image33,width=23,height=24]Wenn Sie sich
+die Kommentare anzeigen lassen wollen, müssen Sie mit der Maus auf das
+oben gezeigte Symbol klicken. Danach werden alle jemals geschriebenen
+Kommentare innerhalb der Kommentarfelder angezeigt.
+
+image:media/image34.png[media/image34,width=417,height=238]
+
+6.9.2. Kommentare werden nicht angezeigt
+
+* Durch erneutes Klicken des oben angezeigten Symbols, werden die
+bereits gespeicherten Kommentare nicht mehr angezeigt.
+* Wenn Sie die Kommentaranzeigefunktion ausgeschaltet haben, werden Sie
+trotzdem durch die Sprechblase auf einen vorhandenen Kommentar
+hingewiesen vom System.
+
+image:media/image35.png[media/image35,width=441,height=192]
+
+6.9.3. Gesetzestext kopieren
+
+Wenn Sie einen Gesetzestext aus dem Verordnungstool kopieren möchten,
+muss der Lesemodus aktiviert sein. Erst nach Ihrer Aktivierung des
+Lesemodus durch Klicken auf das Symbol, können Sie eine Textpassage
+markieren und per Rechtsklick kopieren. Sollten Sie den Lesemodus nicht
+aktiviert haben, kann kein Text aus dem Verordnungstool kopiert werden.
+
+image:media/image36.png[media/image36,width=542,height=45]
+
+[arabic, start=7]
+. [#_Toc66171816 .anchor]##*Verweise auf andere Gesetzestexte*
+
+Durch die blau deklarierten Teile des Satzes werden Sie auf einen
+anderen Gesetzestext in einem anderen Gesetz/ Artikel/ Absatz
+hingewiesen.
+
+* Sie haben die Möglichkeit die anderen Gesetzestexte direkt in dem
+Verordnungstool zu lesen.
+* Dafür müssen Sie Ihre Computermaus über den gewünschten Verweis
+bewegen. Im Anschluss wird Ihnen dann der Teil des Gesetzesabschnittes
+angezeigt.
+
+image:media/image37.png[media/image37,width=680,height=267]
+
+[arabic]
+. [#_Toc66171817 .anchor]####Verweise bearbeiten
+
+Sie können die blauen Verweise selbständig abändern.
+
+* Sie müssen auf das unten markierte Symbol mit der Maus klicken. Im
+Anschluss können Sie auf jeden beliebigen Verweis in dem angezeigten
+Gesetzestext klicken und diesen abändern, erweitern, löschen oder mit
+Kommentaren und Hashtags versehen.
+
+image:media/image32.png[media/image32,width=540,height=52]
+
+[arabic, start=8]
+. image:media/image38.png[media/image38,width=680,height=137]Verordnungstool
+beenden
+
+Das Verordnungstool läuft im Hintergrund weiter, wenn nur der Tab
+geschlossen wird. Es kann wieder geöffnet werden, indem die URL
+http://localhost:8080/verordnung-gk/gui im Browser geöffnet wird oder
+das Verordnungstool, wie in 2 beschrieben, erneut gestartet wird.
+
+Um das Verordnungstool vollständig zu beenden, muss auf den
+Ausschalten-Button neben dem Benutzernamen geklickt werden. Erscheint
+die Meldung, dass die Anwendung erfolgreich beendet wurde, kann der Tab
+anschließend geschlossen werden.
+
+image:media/image39.png[media/image39,width=680,height=105]
+
+[arabic, start=9]
+. Daten sichern und wiederherstellen
+
+Das Verordnungstool erstellt beim Starten der Anwendung automatisch eine
+Sicherungskopie der Datenbank, wenn die letzte Kopie älter als sieben
+Tage ist. Diese automatisch erstellenten Sicherungen werden im Ordner
+„backups“ neben der „verordnung-gk.jar“ bzw. „verordnung-gk“ abgelegt.
+Nur die fünf neusten Backups werden aufbewahrt. Ältere werden
+automatisch beim Anwendungsstart gelöscht. Um das automatische Löschen
+eines Backups zu verhindern, sollte es an einen anderen Ort kopiert
+werden.
+
+[arabic]
+. Manuelle Erzeugung einer Sicherungskopie
+
+Zusätzlich zu der automatischen Erzeugung von Backups, können diese auch
+manuelle erstellt werden.
+
+* Zuerst muss die Anwendung, wie in 8 beschrieben, vollständig beendet
+werden.
+* Anschließend kann das Verzeichnis des VoTos im Explorer geöffnet
+werden.
+* Von dem sich dort befindenden Order „datenbank“ kann ein zip-Archiv
+erstellt werden, indem zum Beispiel ein Rechtsklick auf diesen getätigt
+wird und „Send to“ „Compressed (zipped) folder“ ausgewählt wird.
+* Dieses zip-Archiv enthält anschließend die gesamte Datenbank mit den
+importiertend Dokumenten, Kommentaren und bearbeiteten Verweisen.
+* Optional kann in dieses Archiv zusätzlich die „verordnung-gk.jar“
+hinzugefügt werden, um die Anwendung selbst ebenfalls zu sichern.
+
+____
+image:media/image40.png[media/image40,width=680,height=162]
+____
+
+[arabic]
+. Wiederherstellen einer Sicherungskopie
+
+Automatisch oder manuell erstellte Backups können wiederhergestellt
+werden, um den Zustand zum Zeitpunkt der Sicherung wiederherzustellen.
+
+* Hierfür muss die Anwendung ebenfalls, wie in 8 beschrieben, zuerst
+vollständig beendet werden.
+* Wenn der aktuelle Stand der Anwendung gesichert werden soll, kann wie
+in 9.1 beschrieben ein manuelles Backup erstellt werden.
+* Alternativ kann die Anwendung in einem anderen Ordner ein zweites Mal
+installiert werden.
+* Anschließend muss der Inhalt des Ordners „datenbank“ gelöscht werden.
+* Der Inhalt des Ordners kann nun durch den Inhalt des Ordners Datenbank
+aus dem zip-Archiv ersetzt werden. Eine Datei sollte „h2.mv.db“ heißen.
+In den meisten Fällen sollte zusätzlich eine Datei „h2.trace.db“
+vorhanden sein. In diesem Fall sollte die Datei ebenfalls in den Ordner
+„datenbank“ abgelegt werden.
+
+image:media/image41.png[media/image41,width=680,height=93]
+
+[arabic, start=10]
+. Aktualisierung der Anwendung
+
+Vor dem Aktualisieren der Anwendung sollte ein manuelles Backup der
+Datenbank durchgeführt werden, wie es in 9.1 beschrieben ist.
+
+Um die Anwendung zu aktualisieren, muss lediglich die
+„verordnung-gk.jar“ bzw. „verordnung-gk“ durch die Datei aus dem neuen
+ZIP-Archiv ersetzt werden. Eventuell notwendige Änderungen an der
+Datenbank werde automatisch durchgeführt. Die Datenbank ist nach der
+Aktualisierung NICHT mehr mit der vorherigen Anwendungsversion
+kompatibel.
+
+About Capgemini
+
+A global leader in consulting, technology services and digital
+transformation, Capgemini is at the forefront of innovation to address
+the entire breadth of clients’ opportunities in the evolving world of
+cloud, digital and platforms. Building on its strong 50-year heritage
+and deep industry-specific expertise, Capgemini enables organizations to
+realize their business ambitions through an array of services from
+strategy to operations. Capgemini is driven by the conviction that the
+business value of technology comes from and through people. It is a
+multicultural company of over 200,000 team members in more than
+40 countries. The Group reported 2018 global revenues of EUR 13.2
+billion.
+
+Learn more about us at http://www.capgemini.com[www.capgemini.com]
+
+image:media/image44.png[media/image44,width=34,height=34]image:media/image45.png[media/image45,width=34,height=34]image:media/image46.png[media/image46,width=34,height=34]image:media/image47.png[media/image47,width=34,height=34]image:media/image48.png[media/image48,width=34,height=34]image:media/image49.png[media/image49,width=268,height=68]
